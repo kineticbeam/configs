@@ -1,0 +1,20 @@
+command term		urxvt
+command internet	iceweasel
+
+# looks
+fontname		"-lucy-tewi-medium-r-normal--11-90-75-75-m-60-iso10646-1"
+borderwidth		1
+color inactiveborder	"#353540"
+color activeborder	"#545466"
+color font		"#839496"
+color menubg		"#09090d"
+color selfont		"#839496"
+color menufg		"#58698c"
+
+#gap			8 8 8 8
+
+# Ignores
+ignore lemonbar
+
+# Apps
+bind C-z		exec
